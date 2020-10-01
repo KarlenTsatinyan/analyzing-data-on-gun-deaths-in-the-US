@@ -1,2 +1,2 @@
-# analyzing-data-on-gun-deaths-in-the-US
-Projects from DataQuest
+# The first project in GitHub
+This is practicing on basics of GitHub.
